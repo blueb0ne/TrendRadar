@@ -13,11 +13,11 @@ HarmonyOS
 王传福
 新能源
 小米汽车
+
 大疆
 理想
 蔚来
 小鹏
-!餐
 
 三体
 刘慈欣
@@ -33,26 +33,28 @@ bytedance
 NVIDIA
 黄仁勋
 
-AMD
-谷歌
-google
-gemini
 chatgpt
 openai
 sora
+gemini
 claude
 Anthropic
+
+
+谷歌
+google
+苹果
 iphone
+!水果
 
 ai
+人工智能
+自动驾驶
+机器人
 !gai
 !百度
 !周鸿祎
 !李彦宏
-
-人工智能
-自动驾驶
-机器人
 
 美国
 日本
